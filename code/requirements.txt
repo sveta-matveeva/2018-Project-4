@@ -1,0 +1,7 @@
+tqdm
+wheel
+numpy
+scipy
+pandas
+sklearn
+vowpalwabbit
